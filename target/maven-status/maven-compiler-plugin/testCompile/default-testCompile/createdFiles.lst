@@ -1,0 +1,4 @@
+com\google\Pages\BaseTest.class
+com\google\Pages\GoogleHomePage.class
+com\google\Steps\SearchSteps.class
+com\google\TestRunner.class
